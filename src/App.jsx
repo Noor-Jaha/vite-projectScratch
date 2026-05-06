@@ -27,9 +27,10 @@ console.log(val)
     <>
       <div >
      <input type="text" placeholder='name...' onChange={hadleChange} />
-  {count}
+      {count}
       </div>
     </>
   )
 }
 export default App;
+
